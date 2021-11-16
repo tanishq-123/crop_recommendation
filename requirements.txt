@@ -34,7 +34,7 @@ six==1.15.0
 sqlparse==0.4.1
 tensorboard==1.14.0
 tensorflow==2.7.0
-tensorflow-estimator==1.14.0
+tensorflow-estimator==2.7.0rc0
 termcolor==1.1.0
 threadpoolctl==2.1.0
 typing-extensions==3.7.4.3
